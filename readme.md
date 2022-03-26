@@ -1,3 +1,5 @@
+![1](1.gif)
+
 # 1. 环境安装
 
 ## 1.1 opencv
@@ -131,7 +133,8 @@ print ( dest-a*b )
 
 # 2. 模型训练及量化
 
-python train.py
+'python train.py'
+'python trt.py'
 
 训练完成后，在./checkpoints文件夹下会产生model_trt.engine
 
